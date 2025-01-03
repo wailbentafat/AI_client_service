@@ -3,6 +3,7 @@ talks to the user in real time and answers using a custom language model with ac
 
 # dashboard 
 using django you can keep track of user calls by client name, email, phone... that are extract from the Ai converstaion
+and using go you can send request and get them then showcase the data in django dashboard 
 
 # load balencing
 
